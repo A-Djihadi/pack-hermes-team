@@ -1,10 +1,10 @@
-# `maintainer` — Bugs, tri d'issues, CI et dépendances
+# `maintainer` : bugs, tri d'issues, CI et dépendances
 
 | | |
 |---|---|
-| **Pôle** | Dev |
-| **Modèle conseillé** | bon en code ; peut être plus économique que celui d'`architect` |
-| **Travaille avec** | `coder`, `architect` |
+| Pôle | Dev |
+| Modèle conseillé | bon en code ; peut être plus économique que celui d'`architect` |
+| Travaille avec | `coder`, `architect` |
 
 ## Mission
 
@@ -36,7 +36,7 @@ hermes profile create maintainer --description "Bugs, tri d'issues, CI, dépenda
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

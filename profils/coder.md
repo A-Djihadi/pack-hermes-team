@@ -1,10 +1,10 @@
-# `coder` — Implémente les specs en TDD et ouvre des PR
+# `coder` : implémente les specs en TDD et ouvre des PR
 
 | | |
 |---|---|
-| **Pôle** | Dev |
-| **Modèle conseillé** | bon en code ; peut être plus économique que celui d'`architect` |
-| **Travaille avec** | `architect` (en amont), `maintainer` |
+| Pôle | Dev |
+| Modèle conseillé | bon en code ; peut être plus économique que celui d'`architect` |
+| Travaille avec | `architect` (en amont), `maintainer` |
 
 ## Mission
 
@@ -35,7 +35,7 @@ hermes profile create coder --description "Implémente une spec en TDD et ouvre 
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

@@ -1,10 +1,10 @@
-# `chief` — Orchestrateur et point d'entrée unique
+# `chief` : orchestrateur et point d'entrée unique
 
 | | |
 |---|---|
-| **Pôle** | Pilotage |
-| **Modèle conseillé** | fort en raisonnement et en appel d'outils |
-| **Travaille avec** | tous les profils |
+| Pôle | Pilotage |
+| Modèle conseillé | fort en raisonnement et en appel d'outils |
+| Travaille avec | tous les profils |
 
 ## Mission
 
@@ -40,7 +40,7 @@ Pour que `chief` puisse lire et router tout le tableau en dehors d'une tâche, a
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

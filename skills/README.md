@@ -1,6 +1,6 @@
 # Skills utiles
 
-Un **skill** est une procédure réutilisable (un fichier `SKILL.md`, parfois avec des scripts) que l'agent charge quand la tâche s'y prête. Les skills s'installent **par profil**.
+Un skill est une procédure réutilisable (un fichier `SKILL.md`, parfois avec des scripts) que l'agent charge quand la tâche s'y prête. Les skills s'installent par profil.
 
 ```bash
 hermes skills list                        # skills installés (colonne Source : builtin / official / local / hub)
@@ -34,7 +34,7 @@ Ils apparaissent avec la source `builtin` ou `official` dans `hermes skills list
 
 ## 2. Skills de méthode (hors Hermes)
 
-Ces skills ne sont **pas** livrés avec Hermes : ils viennent de la communauté ou ont été écrits pour la team. Cherche-les avec `hermes skills search <nom>`, ou écris ta propre version (section 3).
+Ces skills ne sont pas livrés avec Hermes : ils viennent de la communauté ou ont été écrits pour la team. Cherche-les avec `hermes skills search <nom>`, ou écris ta propre version (section 3).
 
 | Skill | Ce qu'il fait | Profils | Cas d'usage |
 |---|---|---|---|
@@ -53,11 +53,11 @@ Ces skills ne sont **pas** livrés avec Hermes : ils viennent de la communauté 
 
 ## 3. Écrire tes propres skills
 
-Le plus puissant reste de **laisser la team écrire ses skills** : quand un agent a trouvé la bonne façon de faire une tâche récurrente, demande-lui « enregistre ça comme skill ». Il crée un `SKILL.md` dans son profil, chargé quand c'est pertinent. Le curateur archive ceux qui ne servent plus (voir [pourquoi Hermes](../docs/pourquoi-hermes.md)).
+Le plus utile, c'est de laisser la team écrire ses propres skills. Quand un agent a trouvé la bonne façon de faire une tâche récurrente, demande-lui « enregistre ça comme skill ». Il crée un `SKILL.md` dans son profil, chargé quand c'est pertinent. Le curateur archive ceux qui ne servent plus (voir [pourquoi Hermes](../docs/pourquoi-hermes.md)).
 
 Bonnes pratiques :
 
-- un skill = une procédure, avec une description courte qui dit **quand** l'utiliser ;
+- un skill = une procédure, avec une description courte qui dit quand l'utiliser ;
 - des règles impératives et leur raison, pas un journal de bord ;
 - jamais de secret dans un skill.
 

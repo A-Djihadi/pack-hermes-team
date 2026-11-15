@@ -1,14 +1,14 @@
-# `job-writer` — Rédaction : candidatures, articles et posts
+# `job-writer` : candidatures, articles et posts
 
 | | |
 |---|---|
-| **Pôle** | Carrière / contenu |
-| **Modèle conseillé** | bon en rédaction |
-| **Travaille avec** | `job-scout` (en amont), `seo-expert` |
+| Pôle | Carrière / contenu |
+| Modèle conseillé | bon en rédaction |
+| Travaille avec | `job-scout` (en amont), `seo-expert` |
 
 ## Mission
 
-Rédiger des documents ciblés à partir de **faits vérifiés uniquement** : CV et lettres de motivation, et, en option, articles de blog et posts LinkedIn.
+Rédiger des documents ciblés à partir de faits vérifiés uniquement : CV et lettres de motivation, et, en option, articles de blog et posts LinkedIn.
 
 ## Responsabilités
 
@@ -36,7 +36,7 @@ hermes profile create job-writer --description "Rédige CV, lettres, articles et
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

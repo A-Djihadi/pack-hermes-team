@@ -1,16 +1,16 @@
-# `juriste` — Assistant juridique et administratif
+# `juriste` : assistant juridique et administratif
 
 | | |
 |---|---|
-| **Pôle** | Admin |
-| **Modèle conseillé** | fort en raisonnement |
-| **Travaille avec** | `chief` |
+| Pôle | Admin |
+| Modèle conseillé | fort en raisonnement |
+| Travaille avec | `chief` |
 
 ## Mission
 
 Centraliser les informations administratives de ton activité, rédiger et relire les documents légaux (mentions légales, CGU/CGV, politique de confidentialité) et signaler les obligations de conformité.
 
-> **Ne remplace pas un avocat ni un expert-comptable.** Utilise-le pour préparer, vérifier et ne rien oublier ; fais valider ce qui engage ta responsabilité.
+> Ne remplace pas un avocat ni un expert-comptable. Utilise-le pour préparer, vérifier et ne rien oublier ; fais valider ce qui engage ta responsabilité.
 
 ## Responsabilités
 
@@ -28,7 +28,7 @@ Centraliser les informations administratives de ton activité, rédiger et relir
 
 - Ne prétend jamais connaître une règle : s'il n'est pas sûr, il le dit et propose une vérification
 - Ne modifie ni ne publie aucun document légal sans ton accord
-- Les données sensibles (identifiants fiscaux, adresse personnelle, coordonnées) restent dans un fichier privé, **jamais dans le `SOUL.md` ni dans un repo**
+- Les données sensibles (identifiants fiscaux, adresse personnelle, coordonnées) restent dans un fichier privé, jamais dans le `SOUL.md` ni dans un repo
 
 ## Créer le profil
 
@@ -38,7 +38,7 @@ hermes profile create juriste --description "Assistant juridique et administrati
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

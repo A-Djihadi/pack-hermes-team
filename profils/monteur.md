@@ -1,16 +1,16 @@
-# `monteur` — Montage de vidéos verticales selon ta charte
+# `monteur` : montage de vidéos verticales selon ta charte
 
 | | |
 |---|---|
-| **Pôle** | Contenu |
-| **Modèle conseillé** | bon en appel d'outils |
-| **Travaille avec** | `veille-tech` (en amont) |
+| Pôle | Contenu |
+| Modèle conseillé | bon en appel d'outils |
+| Travaille avec | `veille-tech` (en amont) |
 
 ## Mission
 
 Transformer un script ou un audio en vidéo verticale (1080×1920) prête à poster, en respectant à la lettre ta charte graphique et ton kit de montage.
 
-> Prérequis : un **kit de montage** à toi (charte graphique, gabarits, outil de rendu). Ce pack ne le fournit pas ; le profil se contente de le suivre.
+> Prérequis : un kit de montage à toi (charte graphique, gabarits, outil de rendu). Ce pack ne le fournit pas ; le profil se contente de le suivre.
 
 ## Responsabilités
 
@@ -39,7 +39,7 @@ hermes profile create monteur --description "Monte des vidéos verticales à par
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

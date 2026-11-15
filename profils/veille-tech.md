@@ -1,10 +1,10 @@
-# `veille-tech` — Veille des communautés et scripts de vidéos courtes
+# `veille-tech` : veille des communautés et scripts de vidéos courtes
 
 | | |
 |---|---|
-| **Pôle** | Contenu |
-| **Modèle conseillé** | économique, avec accès web |
-| **Travaille avec** | `monteur` (en aval) |
+| Pôle | Contenu |
+| Modèle conseillé | économique, avec accès web |
+| Travaille avec | `monteur` (en aval) |
 
 ## Mission
 
@@ -36,7 +36,7 @@ hermes profile create veille-tech --description "Veille des communautés et scri
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

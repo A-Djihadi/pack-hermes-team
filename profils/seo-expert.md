@@ -1,10 +1,10 @@
-# `seo-expert` — Audit SEO / GEO / SEA et plan d'action
+# `seo-expert` : audit SEO, GEO, SEA et plan d'action
 
 | | |
 |---|---|
-| **Pôle** | Acquisition |
-| **Modèle conseillé** | fort en raisonnement, avec accès web |
-| **Travaille avec** | `chief`, `job-writer` (contenu) |
+| Pôle | Acquisition |
+| Modèle conseillé | fort en raisonnement, avec accès web |
+| Travaille avec | `chief`, `job-writer` (contenu) |
 
 ## Mission
 
@@ -34,7 +34,7 @@ hermes profile create seo-expert --description "Audit SEO / GEO / SEA et plan d'
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

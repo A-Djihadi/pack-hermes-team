@@ -1,10 +1,10 @@
-# `architect` — Lead technique : conception, specs, revue
+# `architect` : lead technique (conception, specs, revue)
 
 | | |
 |---|---|
-| **Pôle** | Dev |
-| **Modèle conseillé** | fort en raisonnement |
-| **Travaille avec** | `chief`, `coder`, `maintainer` |
+| Pôle | Dev |
+| Modèle conseillé | fort en raisonnement |
+| Travaille avec | `chief`, `coder`, `maintainer` |
 
 ## Mission
 
@@ -37,7 +37,7 @@ hermes profile create architect --description "Conçoit : specs, architecture, t
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

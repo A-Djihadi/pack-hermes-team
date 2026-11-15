@@ -1,10 +1,10 @@
-# `reasoning` — Compagnon d'analyse et de planification
+# `reasoning` : compagnon d'analyse et de planification
 
 | | |
 |---|---|
-| **Pôle** | Pilotage |
-| **Modèle conseillé** | fort en raisonnement |
-| **Travaille avec** | `chief` |
+| Pôle | Pilotage |
+| Modèle conseillé | fort en raisonnement |
+| Travaille avec | `chief` |
 
 ## Mission
 
@@ -36,7 +36,7 @@ hermes profile create reasoning --description "Analyse, planification et questio
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown

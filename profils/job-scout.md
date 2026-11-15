@@ -1,10 +1,10 @@
-# `job-scout` — Recherche et classement d'offres d'emploi
+# `job-scout` : recherche et classement d'offres d'emploi
 
 | | |
 |---|---|
-| **Pôle** | Carrière |
-| **Modèle conseillé** | économique, avec accès web |
-| **Travaille avec** | `job-writer` (en aval) |
+| Pôle | Carrière |
+| Modèle conseillé | économique, avec accès web |
+| Travaille avec | `job-writer` (en aval) |
 
 ## Mission
 
@@ -36,7 +36,7 @@ hermes profile create job-scout --description "Cherche, dédoublonne et classe d
 
 ## SOUL.md à copier
 
-Remplace les `<placeholders>`. Ne mets **jamais** de clé, mot de passe ou donnée sensible ici.
+Remplace les `<placeholders>`. Ne mets jamais de clé, de mot de passe ni de donnée sensible ici.
 
 <!-- SOUL:START -->
 ```markdown
